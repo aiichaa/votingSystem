@@ -4,7 +4,7 @@ This Application is the implementation of our paper, this is a proof-of-concept 
 
 ## Project Overview
 
-![alt text](https://github.com/aiichaa/votingSystem/captures/client-app.gif "Client Side")
+![alt text](https://github.com/aiichaa/votingSystem/tree/master/captures/client-app.gif "Client Side")
 
 ## Dependencies
 This project used a collection of technologies and tools, to run the application, you need to install the following dependencies:
