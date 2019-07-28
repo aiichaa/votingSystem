@@ -2,10 +2,6 @@
 
 This Application is the implementation of our paper, this is a proof-of-concept application and therefore cannot be used in a real life election. 
 
-## Project Overview
-
-![alt text](https://github.com/aiichaa/votingSystem/tree/master/captures/client-app.gif "Client Side")
-
 ## Dependencies
 This project used a collection of technologies and tools, to run the application, you need to install the following dependencies:
 
@@ -33,8 +29,10 @@ This project used a collection of technologies and tools, to run the application
   $ cd votingSystem
   $ npm install
   ```
- * Run Ganache GUI client in your machine, it will start with 10 accounts each with 100 ETH
- 
+ * Run Ganache GUI client in your machine, it will start with 10 accounts each with 100 ETH. You can start ganache via ganache application UI or via command:
+  ```
+  $ ganache-cli
+ ```
  * Compile and Deploy Smart Contracts by running : 
  ```
  $ truffle migrate --reset
