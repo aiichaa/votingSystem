@@ -13,6 +13,6 @@
   "author": "Aicha Fatrah",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.6.1"
   }
 }
